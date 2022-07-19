@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2E145280-43DA-DE26-90C9-A7B9A4500C9B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AndroidQuickStart",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
